@@ -1,6 +1,5 @@
 <?php
-    require_once(__DIR__ . '/../php/core/database.php');
-    require_once(__DIR__ . '/../php/core/orm.php');
+    require_once(__DIR__ . '/../php/autoload.php');
     require_once(__DIR__ . '/../php/models/Product.php');
     require_once(__DIR__ . '/../php/models/Category.php');
     require_once(__DIR__ . '/../php/models/Comment.php');
@@ -22,14 +21,14 @@
         exit("Hubo un error al crear la conexion con la BD");
 
     $connection->beginTransaction();
-
     try {
+        $connection->exec("DROP DATABASE IF EXISTS " . DB_NAME . ";");
         $connection->exec("CREATE DATABASE IF NOT EXISTS " . DB_NAME . ";");
     } catch (PDOException $e) {
         $connection->rollBack();
         exit("Error al ejecutar las consultas: " . $e->getMessage());
     }
-
+    
     // $connection->commit();
     echo "BD CREADA CON EXITO \n";
 
@@ -309,6 +308,10 @@
     }
 
     echo "Se registraron 10 accesorios correctamente. \n";
+
+
+    $productModel->createRandomProducts(200);
+    $commentModel->createRandomComments(1000);
     $connection->commit();
     $db->closeConnection();
     

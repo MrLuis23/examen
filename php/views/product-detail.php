@@ -44,12 +44,36 @@
                 <h2>Comentarios</h2>
             </div>
         </div>
+
+        <div class="container-fluid px-4">
+            <h1 class="fs-6">
+                <strong>
+                    Productos destacados
+                </strong>
+            </h1>
+            <div class="container d-flex">
+                <div class="row d-flex flex-row flex-nowrap row-productos" id="productosDestacados">
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid px-4">
+            <h1 class="fs-6">
+                <strong>
+                    Productos más vendidos
+                </strong>
+            </h1>
+            <div class="container d-flex">
+                <div class="row d-flex flex-row flex-nowrap row-productos" id="productosMasVendidos">
+                </div>
+            </div>
+        </div>
     </div>
-    </div>
+    <!-- </div> -->
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
     <script src="/assets/js/getCategories.js" crossorigin="anonymous"></script>
     <script src="/assets/js/getProduct.js?id=<?php echo $_SESSION['id'];?>" crossorigin="anonymous"></script>
+    <script src="/assets/js/getProducts.js" crossorigin="anonymous"></script>
 </body>
 </html>

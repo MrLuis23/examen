@@ -44,4 +44,33 @@
             $statement->execute();
             return $statement->fetchAll();
         }
+
+        public function createRandomProducts($quantity = 1){
+            $db = new DataBase(true);
+            $connection = $db->getConnection();
+            if (!$connection)
+                exit("Hubo un error al crear la conexion con la BD");
+
+            $connection->beginTransaction();
+            for ($i=0; $i < $quantity; $i++) { 
+                try {
+                    $productModel = getRandomProductModel();
+                    $category_id = $productModel['category_id'];
+                    $this->insert([
+                        'name' =>  getRandomProductName($category_id),
+                        'model' => $productModel['model'],
+                        'specifications' => getRandomProductSpecification($category_id),
+                        'price' => getRandomProductPrice(),
+                        'brand' => getRandomProductBrand($category_id),
+                        'main_category_id' => $category_id
+                    ]);
+                } catch (PDOException $e) {
+                    $connection->rollBack();
+                    exit("Error al ejecutar las consultas: " . $e->getMessage());
+                }
+            }
+            $connection->commit();
+
+            echo "Se registraron {$quantity} productos correctamente. \n";
+        }
     }

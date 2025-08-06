@@ -1,0 +1,804 @@
+{
+  "names":[
+    {
+      "name":"Monitor Dual",
+      "category_id":6
+    },
+    {
+      "name":"Teclado para Juegos",
+      "category_id":5
+    },
+    {
+      "name":"Pantalla Interactiva",
+      "category_id":6
+    },
+    {
+      "name":"Computadora Todo en Uno",
+      "category_id":8
+    },
+    {
+      "name":"Teclado Multimedia",
+      "category_id":5
+    },
+    {
+      "name":"Notebook Ligera",
+      "category_id":10
+    },
+    {
+      "name":"Mini Teclado Bluetooth",
+      "category_id":9
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":8
+    },
+    {
+      "name":"Monitor de Conferencias",
+      "category_id":6
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":9
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":9
+    },
+    {
+      "name":"Computadora de Escritorio",
+      "category_id":10
+    },
+    {
+      "name":"Monitor Curvo",
+      "category_id":7
+    },
+    {
+      "name":"Monitor Táctil",
+      "category_id":7
+    },
+    {
+      "name":"Mini PC",
+      "category_id":5
+    },
+    {
+      "name":"Monitor de Conferencias",
+      "category_id":10
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":10
+    },
+    {
+      "name":"Pantalla Interactiva",
+      "category_id":8
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":9
+    },
+    {
+      "name":"Impresora Multifuncional",
+      "category_id":6
+    },
+    {
+      "name":"Teclado para Juegos",
+      "category_id":8
+    },
+    {
+      "name":"Monitor Profesional",
+      "category_id":6
+    },
+    {
+      "name":"Impresora de Fotos",
+      "category_id":10
+    },
+    {
+      "name":"PC Gamer Compacta",
+      "category_id":5
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":6
+    },
+    {
+      "name":"Laptop Profesional",
+      "category_id":10
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":7
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":10
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":5
+    },
+    {
+      "name":"Pantalla UHD",
+      "category_id":8
+    },
+    {
+      "name":"Ratón de Precisión",
+      "category_id":10
+    },
+    {
+      "name":"Monitor Táctil",
+      "category_id":9
+    },
+    {
+      "name":"Teclado Retroiluminado",
+      "category_id":10
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Ultraligera",
+      "category_id":7
+    },
+    {
+      "name":"Impresora de Fotos",
+      "category_id":8
+    },
+    {
+      "name":"PC Gamer Compacta",
+      "category_id":5
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":9
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":7
+    },
+    {
+      "name":"PC Gamer Compacta",
+      "category_id":9
+    },
+    {
+      "name":"Estación de Trabajo",
+      "category_id":5
+    },
+    {
+      "name":"Monitor Táctil",
+      "category_id":7
+    },
+    {
+      "name":"Pantalla UHD",
+      "category_id":8
+    },
+    {
+      "name":"Mouse Vertical",
+      "category_id":5
+    },
+    {
+      "name":"Teclado Retroiluminado",
+      "category_id":7
+    },
+    {
+      "name":"Teclado Compacto",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Ejecutiva",
+      "category_id":5
+    },
+    {
+      "name":"Teclado Mecánico",
+      "category_id":5
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":6
+    },
+    {
+      "name":"Monitor Profesional",
+      "category_id":6
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":9
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":8
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":7
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":8
+    },
+    {
+      "name":"Computadora Todo en Uno",
+      "category_id":7
+    },
+    {
+      "name":"Notebook Ligera",
+      "category_id":8
+    },
+    {
+      "name":"Mouse para Diseño",
+      "category_id":9
+    },
+    {
+      "name":"Laptop de Negocios",
+      "category_id":6
+    },
+    {
+      "name":"Monitor Táctil",
+      "category_id":8
+    },
+    {
+      "name":"Computadora Todo en Uno",
+      "category_id":8
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":10
+    },
+    {
+      "name":"Mini PC",
+      "category_id":6
+    },
+    {
+      "name":"Laptop Ultraligera",
+      "category_id":8
+    },
+    {
+      "name":"Teclado Compacto",
+      "category_id":5
+    },
+    {
+      "name":"Mini Teclado Bluetooth",
+      "category_id":10
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":6
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":9
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":7
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":10
+    },
+    {
+      "name":"All-in-One",
+      "category_id":10
+    },
+    {
+      "name":"Monitor Curvo",
+      "category_id":6
+    },
+    {
+      "name":"Monitor Dual",
+      "category_id":8
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":10
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":7
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":9
+    },
+    {
+      "name":"Ratón de Precisión",
+      "category_id":8
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":7
+    },
+    {
+      "name":"Impresora Multifuncional",
+      "category_id":8
+    },
+    {
+      "name":"Mini PC",
+      "category_id":9
+    },
+    {
+      "name":"Monitor Profesional",
+      "category_id":7
+    },
+    {
+      "name":"Impresora de Fotos",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Multimedia",
+      "category_id":6
+    },
+    {
+      "name":"Teclado Retroiluminado",
+      "category_id":5
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":7
+    },
+    {
+      "name":"Laptop de Negocios",
+      "category_id":6
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":7
+    },
+    {
+      "name":"Pantalla Interactiva",
+      "category_id":9
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":10
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":9
+    },
+    {
+      "name":"Monitor 4K",
+      "category_id":5
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":8
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":7
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":6
+    },
+    {
+      "name":"Laptop Ejecutiva",
+      "category_id":9
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":5
+    },
+    {
+      "name":"Pantalla UHD",
+      "category_id":6
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":5
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":10
+    },
+    {
+      "name":"Teclado para Juegos",
+      "category_id":5
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":7
+    },
+    {
+      "name":"Chromebook Escolar",
+      "category_id":6
+    },
+    {
+      "name":"Monitor 4K",
+      "category_id":6
+    },
+    {
+      "name":"Estación de Trabajo",
+      "category_id":6
+    },
+    {
+      "name":"Impresora Dúplex",
+      "category_id":7
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":8
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":8
+    },
+    {
+      "name":"Monitor Curvo",
+      "category_id":5
+    },
+    {
+      "name":"Mini PC",
+      "category_id":5
+    },
+    {
+      "name":"Pantalla UHD",
+      "category_id":8
+    },
+    {
+      "name":"Monitor Profesional",
+      "category_id":10
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":9
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":6
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":5
+    },
+    {
+      "name":"Mouse Vertical",
+      "category_id":10
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":5
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":7
+    },
+    {
+      "name":"Mini PC",
+      "category_id":6
+    },
+    {
+      "name":"Tablet Convertible",
+      "category_id":6
+    },
+    {
+      "name":"Laptop Profesional",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Mecánico",
+      "category_id":6
+    },
+    {
+      "name":"Mouse Silencioso",
+      "category_id":6
+    },
+    {
+      "name":"Mini Teclado Bluetooth",
+      "category_id":6
+    },
+    {
+      "name":"Pantalla Interactiva",
+      "category_id":7
+    },
+    {
+      "name":"Laptop Estudiantil",
+      "category_id":9
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":7
+    },
+    {
+      "name":"Teclado Inalámbrico",
+      "category_id":7
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":10
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":5
+    },
+    {
+      "name":"Mouse Silencioso",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Profesional",
+      "category_id":6
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":9
+    },
+    {
+      "name":"Impresora Portátil",
+      "category_id":8
+    },
+    {
+      "name":"Teclado para Juegos",
+      "category_id":9
+    },
+    {
+      "name":"All-in-One",
+      "category_id":6
+    },
+    {
+      "name":"Laptop Profesional",
+      "category_id":6
+    },
+    {
+      "name":"Ratón Gaming",
+      "category_id":9
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":7
+    },
+    {
+      "name":"Teclado Compacto",
+      "category_id":7
+    },
+    {
+      "name":"Teclado para Juegos",
+      "category_id":7
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":8
+    },
+    {
+      "name":"Impresora Portátil",
+      "category_id":8
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":8
+    },
+    {
+      "name":"Ratón de Precisión",
+      "category_id":5
+    },
+    {
+      "name":"Impresora Portátil",
+      "category_id":5
+    },
+    {
+      "name":"Teclado Retroiluminado",
+      "category_id":7
+    },
+    {
+      "name":"Computadora Creativa",
+      "category_id":10
+    },
+    {
+      "name":"Chromebook Escolar",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Inalámbrico",
+      "category_id":10
+    },
+    {
+      "name":"Laptop Ejecutiva",
+      "category_id":10
+    },
+    {
+      "name":"Notebook Ligera",
+      "category_id":7
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":9
+    },
+    {
+      "name":"Monitor 4K",
+      "category_id":6
+    },
+    {
+      "name":"Monitor de Conferencias",
+      "category_id":9
+    },
+    {
+      "name":"Chromebook Escolar",
+      "category_id":7
+    },
+    {
+      "name":"Mouse para Diseño",
+      "category_id":6
+    },
+    {
+      "name":"Mouse Vertical",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Ejecutiva",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Retroiluminado",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Ejecutiva",
+      "category_id":6
+    },
+    {
+      "name":"Tablet Convertible",
+      "category_id":8
+    },
+    {
+      "name":"Monitor de Conferencias",
+      "category_id":6
+    },
+    {
+      "name":"Ratón Ergonómico",
+      "category_id":10
+    },
+    {
+      "name":"Laptop Profesional",
+      "category_id":6
+    },
+    {
+      "name":"Impresora Láser",
+      "category_id":8
+    },
+    {
+      "name":"Laptop 2 en 1",
+      "category_id":10
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":5
+    },
+    {
+      "name":"Monitor Curvo",
+      "category_id":7
+    },
+    {
+      "name":"Mouse Silencioso",
+      "category_id":7
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":8
+    },
+    {
+      "name":"Laptop Gaming",
+      "category_id":6
+    },
+    {
+      "name":"Monitor Curvo",
+      "category_id":10
+    },
+    {
+      "name":"Mouse Silencioso",
+      "category_id":8
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":7
+    },
+    {
+      "name":"Servidor Empresarial",
+      "category_id":6
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":9
+    },
+    {
+      "name":"Computadora Todo en Uno",
+      "category_id":6
+    },
+    {
+      "name":"Ratón Inalámbrico",
+      "category_id":5
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":8
+    },
+    {
+      "name":"Impresora Inalámbrica",
+      "category_id":7
+    },
+    {
+      "name":"Impresora de Fotos",
+      "category_id":10
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":5
+    },
+    {
+      "name":"All-in-One",
+      "category_id":6
+    },
+    {
+      "name":"PC de Oficina",
+      "category_id":9
+    },
+    {
+      "name":"Impresora Dúplex",
+      "category_id":7
+    },
+    {
+      "name":"Monitor Táctil",
+      "category_id":8
+    },
+    {
+      "name":"Pantalla Interactiva",
+      "category_id":5
+    },
+    {
+      "name":"Monitor Dual",
+      "category_id":5
+    },
+    {
+      "name":"Monitor Dual",
+      "category_id":10
+    },
+    {
+      "name":"Ratón de Precisión",
+      "category_id":6
+    },
+    {
+      "name":"Impresora Portátil",
+      "category_id":8
+    },
+    {
+      "name":"Pantalla UHD",
+      "category_id":10
+    },
+    {
+      "name":"Monitor Dual",
+      "category_id":5
+    },
+    {
+      "name":"Impresora de Fotos",
+      "category_id":10
+    },
+    {
+      "name":"Teclado Multimedia",
+      "category_id":5
+    },
+    {
+      "name":"Mouse para Diseño",
+      "category_id":8
+    },
+    {
+      "name":"Monitor de Producción",
+      "category_id":8
+    },
+    {
+      "name":"Teclado Ergonómico",
+      "category_id":6
+    }
+  ]
+}

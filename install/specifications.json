@@ -1,0 +1,804 @@
+{
+  "specifications":[
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":9
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":7
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":9
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":9
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":7
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":5
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":5
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":8
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":9
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":9
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":10
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":9
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":6
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":10
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":6
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":10
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":9
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":9
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":5
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":10
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":9
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":5
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":10
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":5
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":6
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":9
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":10
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":8
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":7
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":5
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":9
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":7
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":6
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":9
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":10
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":8
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":8
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":8
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":6
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":5
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":6
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":8
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":10
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":9
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":8
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":9
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":8
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":9
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":6
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":5
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":7
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":8
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":8
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":7
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":7
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":8
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":10
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":5
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":9
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":9
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":8
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":6
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":10
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":8
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":7
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":10
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":9
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":7
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":8
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":7
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":10
+    },
+    {
+      "specification":"32'', 4K UHD, IPS, DisplayHDR 400",
+      "category_id":10
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":9
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":8
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":8
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":10
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":7
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":8
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":10
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":8
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":8
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":5
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":8
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":5
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":10
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":6
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":6
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":5
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":10
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":5
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":7
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":6
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":5
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":9
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":9
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":7
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":5
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":9
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":7
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":7
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":6
+    },
+    {
+      "specification":"Switches Cherry MX Red, reposamuñecas, RGB",
+      "category_id":6
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":10
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":9
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":7
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":5
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":5
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":5
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":10
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":6
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":6
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":6
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":8
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":9
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":9
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":6
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":6
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":5
+    },
+    {
+      "specification":"Conectividad USB-C, 99% sRGB, 27'' UHD",
+      "category_id":8
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":9
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":7
+    },
+    {
+      "specification":"27'', QHD, 144Hz, IPS, FreeSync",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":6
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":5
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":8
+    },
+    {
+      "specification":"Diseño ergonómico, sensor óptico, 16000 DPI, inalámbrico",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"Impresora multifunción, Wi-Fi, impresión móvil",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":6
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":10
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":10
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":7
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":7
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":7
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":8
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":5
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":9
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":8
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":7
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":6
+    },
+    {
+      "specification":"Monitor curvo, 165Hz, 1ms, G-Sync compatible",
+      "category_id":8
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":10
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":10
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":6
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":8
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"34'', UltraWide, resolución WQHD, HDR10",
+      "category_id":7
+    },
+    {
+      "specification":"Intel Core i7, 16GB RAM, 512GB SSD, pantalla 14'' FHD",
+      "category_id":5
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":10
+    },
+    {
+      "specification":"Pantalla táctil 15.6'', convertible, stylus incluido",
+      "category_id":7
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":6
+    },
+    {
+      "specification":"Diseño dividido, soporte para muñeca, conexión inalámbrica",
+      "category_id":9
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":5
+    },
+    {
+      "specification":"Switches mecánicos, retroiluminado RGB, conexión USB",
+      "category_id":5
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":9
+    },
+    {
+      "specification":"Teclado con touchpad, Bluetooth, retroiluminado",
+      "category_id":5
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":8
+    },
+    {
+      "specification":"Intel Core i3, 4GB RAM, 500GB HDD, Linux",
+      "category_id":8
+    },
+    {
+      "specification":"Pantalla 13.3'' OLED, Intel Core i5, 8GB RAM, 256GB SSD",
+      "category_id":6
+    },
+    {
+      "specification":"AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA RTX 4060",
+      "category_id":6
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":8
+    },
+    {
+      "specification":"Conexión Bluetooth, batería recargable, 4000 DPI",
+      "category_id":9
+    },
+    {
+      "specification":"Intel Core i5, 8GB RAM, 256GB SSD, Windows 11",
+      "category_id":8
+    },
+    {
+      "specification":"Impresión a doble cara, conexión móvil, Wi-Fi Direct",
+      "category_id":10
+    },
+    {
+      "specification":"Impresora láser, monocromo, Wi-Fi, compacta",
+      "category_id":7
+    }
+  ]
+}

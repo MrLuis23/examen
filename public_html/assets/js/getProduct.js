@@ -51,8 +51,6 @@ async function getData() {
       description.appendChild(el);
     }
 
-    buildCards(contenedorDestacados, featuredProducts);
-
   } catch (error) {
     console.error(error.message);
   }

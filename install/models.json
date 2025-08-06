@@ -1,0 +1,804 @@
+{
+  "models": [
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":6
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":5
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":8
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":9
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":10
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":10
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":6
+  },
+  {
+    "model":"HP Envy x360",
+    "category_id":6
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":9
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":9
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":5
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":6
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":7
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":9
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":8
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":5
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":8
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":9
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":7
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":9
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":9
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":5
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":8
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":5
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":5
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":6
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":9
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":5
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":9
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":8
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":5
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":7
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":6
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":10
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":8
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":10
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":9
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":9
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":9
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":6
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":8
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":10
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":9
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":5
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":10
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":5
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":6
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":6
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":9
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":5
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":5
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":10
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":5
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":10
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":5
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":6
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":5
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":6
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":9
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":6
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":7
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":7
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":10
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":8
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":7
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":5
+  },
+  {
+    "model":"HP Envy x360",
+    "category_id":10
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":10
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":10
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":7
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":7
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":9
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":10
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":8
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":5
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":5
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":5
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":7
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":10
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":7
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":9
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":6
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":7
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":9
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":7
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":10
+  },
+  {
+    "model":"HP Envy x360",
+    "category_id":7
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":9
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":5
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":8
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":7
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":7
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":8
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":7
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":7
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":6
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":5
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":6
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":9
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":5
+  },
+  {
+    "model":"HP Envy x360",
+    "category_id":8
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":8
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":10
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":8
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":10
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":5
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":5
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":5
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":5
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":9
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":10
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":6
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":7
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":10
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":6
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":6
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":9
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":7
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":9
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":5
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":5
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":10
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":10
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":5
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":8
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":8
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":5
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":7
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":6
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":5
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":6
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":8
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":8
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":9
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":6
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":9
+  },
+  {
+    "model":"Samsung Smart Monitor M8",
+    "category_id":5
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":6
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":7
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":7
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":10
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":8
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":9
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":6
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":5
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":9
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":7
+  },
+  {
+    "model":"Acer Aspire 5",
+    "category_id":8
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":7
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":9
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":7
+  },
+  {
+    "model":"Razer Basilisk V3",
+    "category_id":8
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":5
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":5
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":5
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":8
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":6
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":10
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":10
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":5
+  },
+  {
+    "model":"BenQ EX3501R",
+    "category_id":5
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":7
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":10
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":5
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":7
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":5
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":5
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":6
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":8
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":7
+  },
+  {
+    "model":"Corsair K95 RGB Platinum",
+    "category_id":9
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":10
+  },
+  {
+    "model":"Brother HL-L2350DW",
+    "category_id":9
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":5
+  },
+  {
+    "model":"Gigabyte G34WQC",
+    "category_id":7
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":9
+  },
+  {
+    "model":"Philips 346E2CUAE",
+    "category_id":9
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":9
+  },
+  {
+    "model":"Cooler Master CK552",
+    "category_id":9
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":5
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":6
+  },
+  {
+    "model":"Microsoft Surface Keyboard",
+    "category_id":9
+  },
+  {
+    "model":"NZXT Function TKL",
+    "category_id":10
+  },
+  {
+    "model":"Logitech Ergo K860",
+    "category_id":7
+  },
+  {
+    "model":"ASRock B550M Steel Legend",
+    "category_id":10
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":5
+  },
+  {
+    "model":"Canon imageCLASS MF743Cdw",
+    "category_id":6
+  },
+  {
+    "model":"ViewSonic VX3276-4K-MHD",
+    "category_id":7
+  },
+  {
+    "model":"Dell Inspiron 14",
+    "category_id":6
+  },
+  {
+    "model":"HP DeskJet 4155e",
+    "category_id":7
+  },
+  {
+    "model":"LG UltraGear 27GL83A",
+    "category_id":9
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":10
+  },
+  {
+    "model":"MSI Modern 14",
+    "category_id":5
+  },
+  {
+    "model":"Lenovo Yoga Slim 7",
+    "category_id":6
+  },
+  {
+    "model":"ASUS VivoBook 15",
+    "category_id":7
+  }
+]
+}
