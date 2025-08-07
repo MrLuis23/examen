@@ -12,6 +12,7 @@ INSTRUCCIONES DE INSTALACION:
     1. Asegurate de tener instalado mysql, ten a la mano las credenciales y los permisos corresponiendtes para poder crear y alterar una BD nueva.
     2. Clona el repositorio en la carpeta de tu servidor web (apache).
     3. Configura de apache para que el sitio se muestre en localhost
+    3.1 Para cambiar las credecianles de la  BD, edita el archivo core/config.php
     4. Desde la terminal posicionate en la carpeta install del repositorio
     5. Ejecuta el comando:
         php install.php
